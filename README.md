@@ -11,9 +11,6 @@ Prazer sou o Rodrigo Noleto, sou programador Front End e Back End, atualmente fa
 <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <img src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<br>
-[![Rodrigo Noleto Statisticas](https://github-readme-stats.vercel.app/api?username=rodrigonoleto92)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Rodrigo Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigonoleto92)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
